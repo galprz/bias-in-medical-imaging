@@ -1,5 +1,6 @@
 # Bias in medical imaging: dealing with cancer classification from MRI scans that contain biased properties
 
+<br>
 <p align="center">
   <img src="./images/data-sample.png" width="600"/>
 </p>
@@ -7,6 +8,9 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 <br>
+<br>
+
+[Link to the experiments in this github](https://github.com/galprz/bias-in-medical-imaging/blob/master/experiments.ipynb)
 <br>
 
 # Intro
